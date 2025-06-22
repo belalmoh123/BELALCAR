@@ -363,6 +363,63 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &87142581
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 87142583}
+  - component: {fileID: 87142582}
+  m_Layer: 0
+  m_Name: carplacer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &87142582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 87142581}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8e9c010d1abf374585b26cc632b50af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  car1Prefab: {fileID: 3007055084074726083, guid: 98b6eca617c35e54f9c8f2636ef62727,
+    type: 3}
+  car2Prefab: {fileID: 919132149155446097, guid: 8413d74f2594dca449f3845b20c0fd3c,
+    type: 3}
+  raycastManager: {fileID: 0}
+  arCamera: {fileID: 171278553}
+  bodyColors:
+  - {fileID: 2100000, guid: 14d37e19830ed5a429512b3f3f961a47, type: 2}
+  - {fileID: 2100000, guid: ee6e43a5279c8e04dbb270201b7ea264, type: 2}
+  - {fileID: 2100000, guid: af7b70f1ab2a1ab46b59fb2afe5c89d0, type: 2}
+  wheelColors:
+  - {fileID: 2100000, guid: 0fcb6af5ce0efeb4495cd5908e4f2957, type: 2}
+  - {fileID: 2100000, guid: ddf8f1403508c80449dc56369bb9c885, type: 2}
+--- !u!4 &87142583
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 87142581}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.09200001, y: -0.51900005, z: -0.26499987}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &171278547
 GameObject:
   m_ObjectHideFlags: 0
@@ -2743,3 +2800,4 @@ SceneRoots:
   - {fileID: 2015316659}
   - {fileID: 602873549}
   - {fileID: 19555847}
+  - {fileID: 87142583}
