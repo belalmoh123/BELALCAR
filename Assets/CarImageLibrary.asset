@@ -21,8 +21,8 @@ MonoBehaviour:
       m_GuidLow: 5391342578736042122
       m_GuidHigh: 358456476448819108
     m_SerializedTextureGuid:
-      m_GuidLow: 2685507359312183381
-      m_GuidHigh: 7333515581988736395
+      m_GuidLow: 4680402167762949378
+      m_GuidHigh: 4772527685900056506
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: CarMarker 1
@@ -31,8 +31,8 @@ MonoBehaviour:
       m_GuidLow: 5707723689211525732
       m_GuidHigh: 5994781387821406865
     m_SerializedTextureGuid:
-      m_GuidLow: 13930805367091284094
-      m_GuidHigh: 13155762594669100475
+      m_GuidLow: 5396642476540573263
+      m_GuidHigh: 16333217798144619464
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: 'CarMarker 2 '
