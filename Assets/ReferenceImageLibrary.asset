@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4979578848783793816
+  m_GuidHigh: 14545876606559348908
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5111530082646798463
+      m_GuidHigh: 8602094054256931968
+    m_SerializedTextureGuid:
+      m_GuidLow: 8391540043811425259
+      m_GuidHigh: 8068232694513749113
+    m_Size: {x: 1, y: 1}
+    m_SpecifySize: 1
+    m_Name: download
+    m_Texture: {fileID: 2800000, guid: a5d88bebbd357474794caf69e31ef86f, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5470670658461076984
+      m_GuidHigh: 11136807613945055413
+    m_SerializedTextureGuid:
+      m_GuidLow: 12786846478508956424
+      m_GuidHigh: 6837671164083898921
+    m_Size: {x: 1, y: 1}
+    m_SpecifySize: 1
+    m_Name: f2bf43_eee224b9ebca45d081fcf3b0a4d1508f~mv2
+    m_Texture: {fileID: 2800000, guid: e4fb1b08011fb174290a273ab249e45e, type: 3}
